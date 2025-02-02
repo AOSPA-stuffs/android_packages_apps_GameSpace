@@ -238,7 +238,6 @@ class DanmakuService @Inject constructor(
     }
 
     companion object {
-    
         private const val TAG = "DanmakuService"
 
         private const val SLIDE_ANIMATION_DISTANCE_FACTOR = 0.5f
