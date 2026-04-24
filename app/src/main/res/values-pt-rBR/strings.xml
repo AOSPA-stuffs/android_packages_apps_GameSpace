@@ -17,7 +17,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
-    <string name="settings_title">Game Space</string>
+    <string name="settings_title">Espaço de jogos</string>
     <string name="settings_panel_title">Ajustes</string>
     <string name="settings_summary">Gerencie sua configuração de jogos</string>
 
@@ -50,7 +50,11 @@
     <string name="ringer_mode_no_change">Não mudar</string>
 
     <!-- Game picker -->
-    <string name="game_list_title">Biblioteca</string>
+    <string name="game_list_preferences_title">Opções de inclusão na biblioteca</string>
+    <string name="desc_game_library">Adicione ou remova os aplicativos que você deseja configurar como jogos.</string>
+    <string name="game_list_title">Biblioteca de jogos</string>
+    <string name="game_list_summary">Gerencie a biblioteca de jogos para personalizar a experiência individual</string>
+    <string name="game_list_library_title">Biblioteca</string>
     <string name="game_list_add_title">Adicionar</string>
     <string name="app_selector_label">Escolha seu jogo</string>
     <string name="app_search_title">Pesquisar</string>
